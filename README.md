@@ -1,2 +1,2 @@
-# OCTANET_INTERNSHIP
+# OCTANET
 This repository contains C &amp; C++ Development tasks
